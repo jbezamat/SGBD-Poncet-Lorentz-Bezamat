@@ -1,0 +1,52 @@
+
+body {
+	text-align: center;
+	background-color: #d9fcdd;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+    text-align: center;    
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+	width: 320px;
+	height: 260px;
+}
+
+a {
+	color: black;
+}
+
+#ret_accueil {
+	top: 0;
+	left: 0;
+	margin: 0px 20px 0px 10px;
+	float: left;
+	width: 320px;
+	height: 260px;
+	border-style: ;
+	border: 5px double  #00ca12;
+	text-align: center;
+	font-size: 50px;
+}
+
+#identif {
+	top: 0;
+	right: 0;
+	margin: 0px 20px 0px 10px;
+	float: right;
+	width: 320px;
+	height: 260px;
+	border: 5px double  #00ca12;
+	text-align: center;
+	font-size: 16px;
+}
